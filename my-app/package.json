@@ -20,12 +20,13 @@
     "@angular/platform-browser": "^7.2.4",
     "@angular/platform-browser-dynamic": "^7.2.4",
     "@angular/router": "^7.2.4",
+    "angular-in-memory-web-api": "^0.8.0",
     "core-js": "^2.4.1",
     "rxjs": "^6.4.0",
+    "rxjs-compat": "^6.0.0-rc.0",
     "ts-helpers": "^1.1.1",
     "tslib": "^1.9.0",
-    "zone.js": "^0.8.29",
-    "rxjs-compat": "^6.0.0-rc.0"
+    "zone.js": "^0.8.29"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
